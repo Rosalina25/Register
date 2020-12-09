@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="no_telephone">No. Telephone</string>
+    <string name="email">Email</string>
+    <string name="country">Country</string>
+    <string name="txt_error">Harus diisi</string>
+    <string name="verification">Verification</string>
+</resources>

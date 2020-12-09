@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="username" type="id">username</item>
+    <item name="email" type="id">email</item>
+    <item name="telephone" type="id">telephone</item>
+    <item name="et_username" type="id">et_username</item>
+    <item name="et_email" type="id">et_email</item>
+    <item name="et_telephone" type="id">et_telephone</item>
+</resources>
